@@ -4,19 +4,19 @@ A personal finance and budget tracking web app built with Next.js. Track income 
 
 ## Features
 
-- **Dashboard** — Overview of balance, recent transactions, and spending trends
-- **Analytics** — Line, bar, and pie charts for detailed financial insights
-- **Workspaces** — Organize finances by workspace with team member support
-- **Transaction Management** — Log income and expenses with filtering options
-- **Authentication** — Secure sign-in via Clerk
+- **Dashboard**: Overview of balance, recent transactions, and spending trends
+- **Analytics**: Line, bar, and pie charts for detailed financial insights
+- **Workspaces**: Organize finances by workspace with team member support
+- **Transaction Management**: Log income and expenses with filtering options
+- **Authentication**: Secure sign-in via Clerk
 
 ## Tech Stack
 
-- **Framework** — [Next.js 15](https://nextjs.org) (App Router)
-- **Auth** — [Clerk](https://clerk.com)
-- **Database** — PostgreSQL (`pg`)
-- **Charts** — MUI X Charts
-- **UI** — Tailwind CSS, shadcn/ui, Radix UI, Lucide Icons
+- **Framework**: [Next.js 15](https://nextjs.org) (App Router)
+- **Auth**: [Clerk](https://clerk.com)
+- **Database**: PostgreSQL (`pg`)
+- **Charts**: MUI X Charts
+- **UI**: Tailwind CSS, shadcn/ui, Radix UI, Lucide Icons
 
 ## Getting Started
 
